@@ -17,7 +17,7 @@ import physicalgraph.zigbee.clusters.iaszone.ZoneStatus
 import physicalgraph.zigbee.zcl.DataType
 
 metadata {
-    definition(name: "SmartSense Button Temperature", namespace: "rbridal", author: "rbridal") {
+    definition(name: "SmartSense Button Temperature", namespace: "rbridal", author: "rbridal", mnmn: "SmartThingsCommunity", vid: "92e6ab1f-67d6-3464-9540-309968e93c70") {
         capability "Configuration"
         capability "Battery"
         capability "Refresh"
