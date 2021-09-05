@@ -23,7 +23,7 @@
  */
 
 metadata {
-	definition (name: "Aqara Temperature Sensor", namespace: "rbridal", author: "rbridal") {
+	definition (name: "Aqara Temperature Sensor", namespace: "rbridal", author: "rbridal", mnmn: "SmartThingsCommunity", vid: "8992b352-e75c-37dc-9727-e00d0686e150") {
 	capability "Temperature Measurement"
 	capability "Relative Humidity Measurement"
 	capability "Sensor"
